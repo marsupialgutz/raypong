@@ -1,6 +1,9 @@
 # Raypong
 Pong clone made in C++ with [raylib](https://github.com/raysan5/raylib).
 
+# Dependencies
+...C++ and raylib lol
+
 # Building
 To build, use these commands:
 
